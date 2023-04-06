@@ -1,1 +1,3 @@
 venv/
+__pycache__/ttt_state.cpython-38.pyc
+ttt_model.pth
